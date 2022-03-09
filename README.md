@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/gameplay3d/OpenGame/master/gameplay/res/icon.png" width=100/>
+<img src="https://github.com/Jack840517/OpenGame/blob/main/gameplay/res/icon.png" width=100/>
 
 ## OpenGame v3.0.0
 
